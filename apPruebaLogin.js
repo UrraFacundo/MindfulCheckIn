@@ -9,8 +9,9 @@ import { View, StyleSheet } from 'react-native';
 import Login from './login';
 
 const App = () => {
-  /*
+  
   return (
+    /*
     <View style={styles.container}>
       <Login />
     </View>
