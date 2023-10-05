@@ -31,4 +31,5 @@ const LoginScreen = () => {
         autoCapitalize="none"
         />
         <TextInput
+          style={styles.input}
         
