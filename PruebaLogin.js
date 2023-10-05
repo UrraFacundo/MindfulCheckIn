@@ -43,4 +43,4 @@ const LoginScreen = () => {
 };
 
 const styles = StyleSheet.create({
-  
+  container: {
