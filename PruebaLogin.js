@@ -37,3 +37,4 @@ const LoginScreen = () => {
           value={password}
           secureTextEntry={true}
         />
+         <Button title="Iniciar Sesión" onPress={handleLogin} />
