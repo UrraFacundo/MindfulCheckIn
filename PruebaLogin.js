@@ -26,4 +26,5 @@ const LoginScreen = () => {
         placeholder="Correo electrónico"
         onChangeText={text => setEmail(text)}
         onChangeText={text => setEmail(text)}
+      
         
