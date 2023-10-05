@@ -20,6 +20,7 @@ const Header  = () => {
             delay: 0.5,
             type: "spring ",
             stiffness: '200%',
+            damping: 48,
 
             }
         })
