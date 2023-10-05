@@ -35,3 +35,5 @@ const LoginScreen = () => {
           placeholder="Contraseña"
           onChangeText={text => setPassword(text)}
           value={password}
+          secureTextEntry={true}
+          
