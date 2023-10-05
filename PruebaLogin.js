@@ -25,4 +25,5 @@ const LoginScreen = () => {
         style={styles.input}
         placeholder="Correo electrónico"
         onChangeText={text => setEmail(text)}
-   
+        onChangeText={text => setEmail(text)}
+        
