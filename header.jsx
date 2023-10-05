@@ -26,7 +26,8 @@ const Header  = () => {
         }),
     }
     const navLinks = [
-        {label: "Home", icon: "bx bx-home"},
+        {label: "Escuela", icon: "bx bx-home"},
+        {label: "Cursos ", icon: "bx bx-briefcase"},
     ]
 
 }
