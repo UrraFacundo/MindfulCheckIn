@@ -49,4 +49,5 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     padding: 16,
   },
-  
+  title: {
+    
