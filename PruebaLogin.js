@@ -54,4 +54,5 @@ const styles = StyleSheet.create({
   marginBottom: 16,
   },
   input: {
+   width: '100%',
 
