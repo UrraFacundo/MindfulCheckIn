@@ -23,4 +23,4 @@ const LoginScreen = () => {
       <Text style={styles.title}>Iniciar Sesión</Text>
       <TextInput
         style={styles.input}
- 
+        placeholder="Correo electrónico"
