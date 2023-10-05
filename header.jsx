@@ -11,8 +11,8 @@ const Header  = () => {
             transition: {
              type: "spring ",
              stiffness: 200%,
-             
+             restDelta: 1, 
             }
-        })
+        }),
     }
 }
