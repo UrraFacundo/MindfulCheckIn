@@ -21,4 +21,4 @@ const LoginScreen = () => {
     <View style={styles.container}>
       
       <Text style={styles.title}>Iniciar Sesión</Text>
-   
+      <TextInput
