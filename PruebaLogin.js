@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
     padding: 16,
   },
   title: {
-    
+  fontSize: 24,
