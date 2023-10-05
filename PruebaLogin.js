@@ -38,3 +38,4 @@ const LoginScreen = () => {
           secureTextEntry={true}
         />
          <Button title="Iniciar Sesión" onPress={handleLogin} />
+    </View>
