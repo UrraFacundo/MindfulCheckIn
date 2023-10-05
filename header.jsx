@@ -4,4 +4,8 @@ import { motion } from "framer-motion";
 
 const Header  = () => {
     const [isOpen, setiOpen] = useState(false);
-    
+   
+    const navbar = {
+        
+    }
+}
