@@ -19,6 +19,7 @@ const Header  = () => {
             transition: {
             delay: 0.5,
             type: "spring ",
+            stiffness: '200%',
 
             }
         })
