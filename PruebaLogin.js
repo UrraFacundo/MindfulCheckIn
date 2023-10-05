@@ -24,3 +24,5 @@ const LoginScreen = () => {
       <TextInput
         style={styles.input}
         placeholder="Correo electrónico"
+        onChangeText={text => setEmail(text)}
+   
