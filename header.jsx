@@ -17,7 +17,8 @@ const Header  = () => {
         closed: () => ({
             clipPath: 'polygon(0 100%, 100% 100%, 100% 100%, 0 100% ) ',
             transition: {
-                
+            delay: 0.5,
+            
             }
         })
     }
