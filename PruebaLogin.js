@@ -34,3 +34,4 @@ const LoginScreen = () => {
           style={styles.input}
           placeholder="Contraseña"
           onChangeText={text => setPassword(text)}
+          value={password}
