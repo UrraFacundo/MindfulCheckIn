@@ -28,6 +28,8 @@ const Header  = () => {
     const navLinks = [
         {label: "Escuela", icon: "bx bx-home"},
         {label: "Cursos ", icon: "bx bx-briefcase"},
+        {label: "Pagina web", icon: "bx bx-edit"},
+
     ]
 
 }
