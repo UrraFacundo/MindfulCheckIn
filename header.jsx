@@ -26,7 +26,7 @@ const Header  = () => {
         }),
     }
     const navLinks = [
-        
+        {label: "Home", icon: "bx bx-home"},
     ]
 
 }
