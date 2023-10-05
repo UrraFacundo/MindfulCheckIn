@@ -28,4 +28,6 @@ const LoginScreen = () => {
         onChangeText={text => setEmail(text)}
         value={email}
         keyboardType="email-address"
+        autoCapitalize="none"
+        />
         
