@@ -36,4 +36,4 @@ const LoginScreen = () => {
           onChangeText={text => setPassword(text)}
           value={password}
           secureTextEntry={true}
-          
+        />
