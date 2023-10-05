@@ -60,4 +60,8 @@ const styles = StyleSheet.create({
    borderColor: 'gray',
    borderRadius: 5,
    marginBottom: 12,
+   
+   padding: 8,
+  },
+});
 
