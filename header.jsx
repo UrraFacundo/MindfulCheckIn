@@ -29,6 +29,8 @@ const Header  = () => {
         {label: "Escuela", icon: "bx bx-home"},
         {label: "Cursos ", icon: "bx bx-briefcase"},
         {label: "Pagina web", icon: "bx bx-edit"},
+        {label: "Informacion de nuestra institucion ", icon: "bx bx-info-circle"},
+
 
     ]
 
