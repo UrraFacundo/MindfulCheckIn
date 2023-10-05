@@ -38,8 +38,6 @@ const Header  = () => {
             <img src={Logo} alt=""/>
             <h1>Epet n° 20</h1>
             </div>
-
-        </div>
     )
 
 }
