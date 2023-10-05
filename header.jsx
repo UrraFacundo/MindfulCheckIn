@@ -6,6 +6,8 @@ const Header  = () => {
     const [isOpen, setiOpen] = useState(false);
    
     const navbar = {
-        
+        open: () => ({
+            
+        })
     }
 }
