@@ -23,6 +23,10 @@ const Header  = () => {
             damping: 48,
 
             }
-        })
+        }),
     }
+    const navLinks = [
+        
+    ]
+
 }
