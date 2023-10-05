@@ -32,4 +32,4 @@ const LoginScreen = () => {
         />
         <TextInput
           style={styles.input}
-        
+          placeholder="Contraseña"
