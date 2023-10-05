@@ -10,8 +10,9 @@ const LoginScreen = () => {
   const [password, setPassword] = useState('');
 
   const handleLogin = () => {
-   /*
+   
     console.log('Correo electrónico:', email);
+    /*
     console.log('Contraseña:', password);
   };
 
