@@ -58,4 +58,5 @@ const styles = StyleSheet.create({
    height: 40,
    borderWidth: 1,
    borderColor: 'gray',
+   borderRadius: 5,
 
