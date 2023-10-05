@@ -33,6 +33,8 @@ const Header  = () => {
         {label: "Contacto ", icon: "bx bx-envelope"},
     ]
     return (
+        <div className="Header">
+
         
     )
 
