@@ -9,7 +9,8 @@ const Header  = () => {
         open: () => ({
             clipPath: 'polygon(0 100%, 100% 100%, 100% 0, 0 0 ) ',
             transition: {
-                
+             type: "spring ",
+             
             }
         })
     }
