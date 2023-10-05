@@ -7,7 +7,8 @@ const Header  = () => {
    
     const navbar = {
         open: () => ({
-            
+            clipPath: 'polygon(0 100%, 100% 100%, 100% 0, 0 0 ) ',
+    
         })
     }
 }
