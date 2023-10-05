@@ -39,3 +39,8 @@ const LoginScreen = () => {
         />
          <Button title="Iniciar Sesión" onPress={handleLogin} />
     </View>
+  );
+};
+
+const styles = StyleSheet.create({
+  
