@@ -30,4 +30,5 @@ const LoginScreen = () => {
         keyboardType="email-address"
         autoCapitalize="none"
         />
+        <TextInput
         
