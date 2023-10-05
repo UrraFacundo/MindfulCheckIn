@@ -14,5 +14,8 @@ const Header  = () => {
              restDelta: 1, 
             }
         }),
+        closed: () => ({
+            
+        })
     }
 }
