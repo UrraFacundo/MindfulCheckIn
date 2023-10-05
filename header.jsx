@@ -31,9 +31,9 @@ const Header  = () => {
         {label: "Pagina web", icon: "bx bx-edit"},
         {label: "Informacion de nuestra institucion ", icon: "bx bx-info-circle"},
         {label: "Contacto ", icon: "bx bx-envelope"},
-
-
-
     ]
+    return (
+        
+    )
 
 }
