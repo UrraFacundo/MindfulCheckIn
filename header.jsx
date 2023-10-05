@@ -34,8 +34,9 @@ const Header  = () => {
     ]
     return (
         <div className="Header">
+            <div className="HeaderLogo">
 
-        
+           
     )
 
 }
