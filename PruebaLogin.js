@@ -15,8 +15,9 @@ const LoginScreen = () => {
     
     console.log('Contraseña:', password);
   };
-/*
+
   return (
+    /*
     <View style={styles.container}>
       <Text style={styles.title}>Iniciar Sesión</Text>
       <TextInput
