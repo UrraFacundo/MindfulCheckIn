@@ -55,6 +55,8 @@ const Header  = () => {
              onClick={() => setisOpen(isOpen => !isOpen)}
         
              <i className={link.icon}></i>
+             {links.label}
+
              
 
             
