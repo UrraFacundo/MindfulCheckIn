@@ -49,7 +49,8 @@ const Header  = () => {
             variants={navbar}
             />
             {navLinks.map((links) = (
-                
+             <li
+             
            
 
             
