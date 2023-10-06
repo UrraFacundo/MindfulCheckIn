@@ -53,10 +53,9 @@ const Header  = () => {
              className="nav-item"
              key={links.label}
              onClick={() => setisOpen(isOpen => !isOpen)}
-        
              <i className={link.icon}></i>
              {links.label}
-
+             ></li>
              
 
             
