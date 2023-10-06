@@ -16,6 +16,9 @@ const Accessibility = ({ children }) => {
             window.removeEventListener("keydown", handleEscape);
         };
     }, []);
+    
+    return isOpen
+   
   
   
        
