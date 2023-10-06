@@ -48,6 +48,9 @@ const Header  = () => {
             animation={isOpen ? "open": "closed"}
             variants={navbar}
             />
+            {navLinks.map((links) = (
+                
+           
 
             
     )
