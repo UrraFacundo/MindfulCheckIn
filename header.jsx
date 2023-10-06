@@ -40,7 +40,7 @@ const Header  = () => {
             </div>
 
             <div className="Header-Icono">
-
+            <i class='bx bx-menu' onClick={() setiOpen(isOpen => !isOpen)}></i>
             
     )
 
