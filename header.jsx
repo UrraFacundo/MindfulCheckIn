@@ -40,7 +40,7 @@ const Header  = () => {
             </div>
 
             <div className="Header-Icono">
-            <i class='bx bx-menu' onClick={() => setiOpen(isOpen => !isOpen)}></i>,
+            <i class='bx bx-menu' onClick={() => setisOpen(isOpen => !isOpen)}></i>,
             <div/>
 
             <motion.ul 
@@ -52,6 +52,7 @@ const Header  = () => {
              <li
              className="nav-item"
              key={links.label}
+             onClick={() => setisOpen(isOpen => !isOpen)}
 
             
     )
