@@ -47,7 +47,7 @@ const Header  = () => {
             className="Header-nav"
             animation={isOpen ? "open": "closed"}
             variants={navbar}
-            
+            />
 
             
     )
