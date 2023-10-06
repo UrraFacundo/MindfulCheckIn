@@ -50,7 +50,7 @@ const Header  = () => {
             />
             {navLinks.map((links) = (
              <li
-             
+             className="nav-item"
            
 
             
