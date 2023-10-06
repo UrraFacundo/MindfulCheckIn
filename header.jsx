@@ -46,6 +46,8 @@ const Header  = () => {
             <motion.ul 
             className="Header-nav"
             animation={isOpen ? "open": "closed"}
+            variants={navbar}
+            
 
             
     )
