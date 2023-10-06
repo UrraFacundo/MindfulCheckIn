@@ -8,4 +8,6 @@ const Accessibility = ({ children }) => {
             if (event.key === "Escape") {
                 setIsOpen(false);
             }
-        
+        };
+    
+       
