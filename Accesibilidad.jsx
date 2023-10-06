@@ -3,3 +3,5 @@ import { createPortal } from "react-dom";
 
 
 const Accessibility = ({ children }) => {
+    useEffect(() => {
+     
