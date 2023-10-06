@@ -12,4 +12,6 @@ const Accessibility = ({ children }) => {
     
         window.addEventListener("keydown", handleEscape);
     
-       
+        return () => {
+      
+  
