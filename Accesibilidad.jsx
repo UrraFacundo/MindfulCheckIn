@@ -15,4 +15,7 @@ const Accessibility = ({ children }) => {
         return () => {
             window.removeEventListener("keydown", handleEscape);
         };
-    
+    }, []);
+  
+  
+       
