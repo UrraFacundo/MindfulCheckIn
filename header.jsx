@@ -40,12 +40,12 @@ const Header  = () => {
             </div>
 
             <div className="Header-Icono">
-            <i class='bx bx-menu' onClick={() setiOpen(isOpen => !isOpen)}></i>
+            <i class='bx bx-menu' onClick={() => setiOpen(isOpen => !isOpen)}></i>,
             <div/>
 
             <motion.ul 
             className="Header-nav"
-            
+            animation={isOpen ? "open": "closed"}
 
             
     )
