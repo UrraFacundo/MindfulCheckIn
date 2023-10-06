@@ -6,4 +6,5 @@ const Accessibility = ({ children }) => {
     useEffect(() => {
         const HandleEscape = (event) => {
             if (event.key === "Escape") {
-            
+                setIsOpen(false);
+              
