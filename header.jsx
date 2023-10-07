@@ -57,7 +57,11 @@ const Header = () => {
           </li>
         ))}
       </motion.ul>
-    
+      </div>
+  );
+};
+
+
 
 
 
