@@ -48,7 +48,9 @@ const Accessibility = ({ children }) => {
         </div>,
         document.body
         )
-        : null;
+        null;
+    };
+export default Accessibility;
 
 
          
