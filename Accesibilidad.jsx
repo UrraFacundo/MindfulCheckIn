@@ -29,7 +29,7 @@ const Accessibility = ({ children }) => {
          backgroundColor: "rgba(128, 0, 128, 0.5)",
          ZIndex: 1000,
          }}
-         
+         onClick={() => setIsOpen(false)}
 
   
   
