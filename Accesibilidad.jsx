@@ -34,6 +34,7 @@ const Accessibility = ({ children }) => {
 
         <div
         style={{
+        position: "absolute",
   
   
        
