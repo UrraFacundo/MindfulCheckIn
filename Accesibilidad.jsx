@@ -46,7 +46,10 @@ const Accessibility = ({ children }) => {
         {children}
         </div>,
         </div>,
-       document.body
+        document.body
+        )
+        : null;
+
 
          
 
