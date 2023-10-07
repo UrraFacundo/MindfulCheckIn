@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-
-
 import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
 
 const LoginScreen = () => {
@@ -24,7 +22,6 @@ const LoginScreen = () => {
       <TextInput
         style={styles.input}
         placeholder="Correo electrónico"
-        onChangeText={text => setEmail(text)}
         onChangeText={text => setEmail(text)}
         value={email}
         keyboardType="email-address"
