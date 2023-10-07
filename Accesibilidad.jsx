@@ -30,7 +30,7 @@ const Accessibility = ({ children }) => {
          ZIndex: 1000,
          }}
          onClick={() => setIsOpen(false)}
-        />
+        >
 
         <div
         style={{
@@ -42,7 +42,10 @@ const Accessibility = ({ children }) => {
         height: "500px",
         backgroundColor: "white",
          }}
+        >
+        {children}
+
          
-  
+
   
        
