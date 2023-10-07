@@ -40,6 +40,7 @@ const Accessibility = ({ children }) => {
         transform: "translate(-50%, -50%)",
         width: "500px",
         height: "500px",
+        backgroundColor: "white",
         
   
   
