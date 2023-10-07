@@ -35,6 +35,7 @@ const Accessibility = ({ children }) => {
         <div
         style={{
         position: "absolute",
+        top: "50%",
   
   
        
