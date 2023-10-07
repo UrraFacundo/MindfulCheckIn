@@ -30,7 +30,7 @@ const Accessibility = ({ children }) => {
          ZIndex: 1000,
          }}
          onClick={() => setIsOpen(false)}
-
+        />
   
   
        
