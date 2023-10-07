@@ -41,7 +41,8 @@ const Accessibility = ({ children }) => {
         width: "500px",
         height: "500px",
         backgroundColor: "white",
-        
+         }}
+         
   
   
        
