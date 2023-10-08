@@ -5,6 +5,8 @@ const Footer = () => {
     const links = [
         [
             {label : 'Institucion' , key: 'header-1'},
+            {label : '¿ Quiénes somos ?' , key: 'item-1-1'},
+            
         ]
     ]
 }
