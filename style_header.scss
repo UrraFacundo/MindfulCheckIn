@@ -86,8 +86,10 @@ ul{
     }
 }
 
-@media(min-width:1024px){
+@media(min-width:458px){
     &{
-        top: 0%;
+        &__nav{
+            grid-template-columns: repeat(3,1fr);
+        }  
     }
 }
