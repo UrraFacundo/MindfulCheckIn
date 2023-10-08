@@ -97,6 +97,9 @@ ul{
 @media(min-width:1024px){
     &{
         top: 0%;
+        &__icon{
+            display: none;
+        }
     }
 }
 
