@@ -2,3 +2,4 @@ const Footer  = () => {
     const links = [
         
     ]
+}
