@@ -109,6 +109,9 @@ ul{
             justify-content: flex-end;
             gap: 0;
         }
+        & .nav-item{
+            padding: 0%;
+        }
 
     }
 }
