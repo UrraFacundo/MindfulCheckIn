@@ -58,4 +58,5 @@ ul{
     position: absolute;
     bottom: 75px;
     display: grid;
+    grid-template-columns: repeat(2, 1fr);
 }
