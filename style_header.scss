@@ -103,6 +103,7 @@ ul{
         &__nav{
             clip-path: none !important;
             max-width: 768px;
+            grid-template-columns: repeat(6, 1fr);
         }
 
     }
