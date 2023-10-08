@@ -114,6 +114,10 @@ ul{
             border: none;
             flex-direction: row;
             gap: 5px;
+
+            &:hover{
+                background-color: transparent;
+            }
         }
 
     }
