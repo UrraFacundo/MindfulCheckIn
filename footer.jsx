@@ -7,6 +7,7 @@ const Footer = () => {
             {label : 'Institucion' , key: 'header-1'},
             {label : '¿ Quiénes somos ?' , key: 'item-1-1'},
             {label : 'Sitio web' , key: 'item-1-2'},
+            {label : 'Contacto' , key: 'item-1-3'},
         ]
     ]
 }
