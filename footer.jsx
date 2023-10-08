@@ -1,5 +1,1 @@
-const Footer  = () => {
-    const links = [
-        
-    ]
-}
+import { icon, logo } from './assets';
