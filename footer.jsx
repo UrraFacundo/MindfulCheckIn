@@ -26,6 +26,9 @@ const Footer = () => {
                 E.P.E.T. N° 20
               </span>
             </div>
+            <div className='info'>
+            
+            </div>
             </div>
         </div>
     )
