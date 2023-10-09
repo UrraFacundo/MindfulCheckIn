@@ -39,7 +39,9 @@ const Footer = () => {
                <FaFacebook/>
                <FaWhatsApp/>
                <FaXTwitter/>
-
+             </div>
+             <div className="footer-links">
+                
              </div>
             </div>
         </div>
