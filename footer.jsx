@@ -38,6 +38,7 @@ const Footer = () => {
                <FaInstagram/>
                <FaFacebook/>
                <FaWhatsApp/>
+               <FaXTwitter/>
 
              </div>
             </div>
