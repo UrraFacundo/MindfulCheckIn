@@ -67,6 +67,10 @@
             display: grid;
             row-gap: 8px;
             list-style: none;
+
+            & li:first-child{
+                font-size: 1.25rem;
+            }
         }
     }
 
