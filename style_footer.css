@@ -109,6 +109,11 @@
             }
         }
     }
+    @media (min-width:1012px) {
+        & {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
 
 
 }
