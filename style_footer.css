@@ -112,8 +112,11 @@
     @media (min-width:1012px) {
         & {
             grid-template-columns: repeat(3, 1fr);
+
+            & links{
+                grid-template-columns: repeat(2, 1fr);
+            }
         }
     }
-
 
 }
