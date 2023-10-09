@@ -55,11 +55,12 @@
                 border-radius: 50%;
                 background-color: #42555f;
                 color: $text-secondary-clr;
-                cursor: pointer;
-
+                cursor:{ pointer;
             }
         }
-        
+    }
+    &-links{
+        display: grid;
     }
 
 }
