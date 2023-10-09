@@ -39,6 +39,7 @@
 
                 & .info{
                     display: grid;
+                    color: $text-secondary-clr;
                 }
             }
 
