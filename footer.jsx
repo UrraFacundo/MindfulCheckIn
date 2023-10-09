@@ -36,7 +36,7 @@ const Footer = () => {
              </div>
              <div className="footer-icons">
                <FaInstagram/>
-               
+               <FaFacebook/>
 
              </div>
             </div>
