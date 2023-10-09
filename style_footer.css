@@ -89,6 +89,10 @@
             color: $text-main-clr;
             font-weight: 500;
         }
+
+        & input{
+            margin-top: 10px;
+        }
     }
 
 }
