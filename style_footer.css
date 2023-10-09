@@ -71,6 +71,8 @@
             & li:first-child{
                 font-size: 1.25rem;
                 color: $text-main-clr;
+                font-weight: 500;
+                
             }
         }
     }
