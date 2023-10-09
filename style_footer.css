@@ -118,5 +118,9 @@
             }
         }
     }
-
+    @media (min-width:1440px) {
+        & {
+            padding:  1rem calc((100vw - 1440px)/2) ;
+        }
+    }
 }
