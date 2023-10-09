@@ -27,7 +27,9 @@ const Footer = () => {
               </span>
             </div>
             <div className='info'>
-            
+               <span>
+                 Derechos de autor © 2023 E.P.E.T. N° 20.
+               </span>
             </div>
             </div>
         </div>
