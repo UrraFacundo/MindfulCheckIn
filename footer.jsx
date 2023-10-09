@@ -19,7 +19,9 @@ const Footer = () => {
     ]
     return (
         <div className='footer'>
-            
+            <div className="footer-company-info">
+                
+            </div>
         </div>
     )
 }
