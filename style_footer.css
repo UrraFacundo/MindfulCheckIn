@@ -49,6 +49,7 @@
 
             & svg{
                 $padding : .75rem;
+                height: calc(32px + $padding);
             }
         }
         
