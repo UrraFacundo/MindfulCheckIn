@@ -36,6 +36,10 @@
                 color: $text-main-clr;
                 font-weight: bold;
                 padding-left: 10px;
+
+                & .info{
+                    display: grid;
+                }
             }
 
         }
