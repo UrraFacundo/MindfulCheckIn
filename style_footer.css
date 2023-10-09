@@ -52,6 +52,7 @@
                 height: calc(32px + $padding);
                 width: calc(32px + $padding);
                 padding: $padding;
+                border-radius: 50%;
             }
         }
         
