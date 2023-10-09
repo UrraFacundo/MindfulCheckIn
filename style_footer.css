@@ -17,4 +17,6 @@
     $text-main-clr: #fff;
     $text-secondary-clr: #cccccc;
     width: 100%;
+    display: grid;
+
 }
