@@ -11,3 +11,7 @@
     justify-content: center;
     font-family: 'poppins';
 }
+
+.footer{
+    $bg-clr: #263238;
+}
