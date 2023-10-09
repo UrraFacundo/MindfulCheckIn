@@ -41,7 +41,9 @@ const Footer = () => {
                <FaXTwitter/>
              </div>
              <div className="footer-links">
+              {links.map((col,index) => (
                 
+              )) }
              </div>
             </div>
         </div>
