@@ -18,5 +18,6 @@
     $text-secondary-clr: #cccccc;
     width: 100%;
     display: grid;
+    row-gap: 2rem;
 
 }
