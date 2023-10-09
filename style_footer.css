@@ -53,6 +53,7 @@
                 width: calc(32px + $padding);
                 padding: $padding;
                 border-radius: 50%;
+                background-color: #42555f;
             }
         }
         
