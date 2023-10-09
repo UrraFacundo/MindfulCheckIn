@@ -21,7 +21,7 @@ const Footer = () => {
         <div className='footer'>
             <div className="footer-company-info">
             <div className="footer-img">
-                
+              <img src={icon} alt="" />
             </div>
             </div>
         </div>
