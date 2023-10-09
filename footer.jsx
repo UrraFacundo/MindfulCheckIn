@@ -21,11 +21,12 @@ const Footer = () => {
         <div className='footer'>
             <div className="footer-company-info">
              <div className="footer-img">
-              <img src={icon} alt="" />
+             <img src={icon} alt="" />
               <span>
                 E.P.E.T. N° 20
               </span>
              </div>
+
              <div className='info'>
                <span>
                  Derechos de autor © 2023 E.P.E.T. N° 20.
@@ -34,12 +35,13 @@ const Footer = () => {
                  Todos los derechos
                 </span>
              </div>
-             <div className="footer-icons">
-               <FaInstagram/>
-               <FaFacebook/>
-               <FaWhatsApp/>
-               <FaXTwitter/>
-             </div>
+              <div className="footer-icons">
+                <FaInstagram/>
+                <FaFacebook/>
+                <FaWhatsApp/>
+                <FaXTwitter/>
+              </div>
+           </div>
              <div className="footer-links">
               {links.map((col,index) => (
                 <ul className={`col col-${index+1}`} key={`col-${index}`}>
@@ -51,7 +53,11 @@ const Footer = () => {
                 </ul>
               ))}
              </div>
-            </div>
+             <div className="footer-form">
+                
+             </div>
+        
+
         </div>
     )
 }
