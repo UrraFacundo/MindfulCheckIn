@@ -76,6 +76,7 @@
 
             & li:not(:first-child){
                 color: $text-secondary-clr;
+                cursor: pointer;
             }
         }
     }
