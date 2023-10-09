@@ -83,6 +83,10 @@
     &-form{
         display: flex;
         flex-direction: column;
+
+        & label {
+            font-size: 1.5rem;
+        }
     }
 
 }
