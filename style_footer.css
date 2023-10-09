@@ -87,6 +87,7 @@
         & label {
             font-size: 1.5rem;
             color: $text-main-clr;
+            font-weight: 500;
         }
     }
 
