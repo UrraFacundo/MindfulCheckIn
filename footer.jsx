@@ -54,7 +54,9 @@ const Footer = () => {
               ))}
              </div>
              <div className="footer-form">
+             <label htmlFor="">
                 
+             </label>
              </div>
         
 
