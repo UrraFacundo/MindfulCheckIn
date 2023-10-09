@@ -80,7 +80,7 @@
             }
         }
     }
-    &-form{
+    & .form{
         display: flex;
         flex-direction: column;
 
@@ -96,8 +96,15 @@
             border: none;
             border-radius: .5rem;
             padding: .75rem 1.5rem;
-            
+        
         }
     }
+
+    @media (min-width:648px) {
+        & {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+
 
 }
