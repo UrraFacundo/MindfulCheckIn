@@ -23,4 +23,7 @@
     padding: 1rem 1.5rem;
     position: relative;
 
+    &-company-info{
+        display: grid;
+    }
 }
