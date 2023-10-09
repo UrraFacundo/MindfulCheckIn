@@ -55,8 +55,9 @@ const Footer = () => {
              </div>
              <div className="footer-form">
              <label htmlFor="">
-                
+                Mantente al dia
              </label>
+              <input type="email" name="" id="" />
              </div>
         
 
