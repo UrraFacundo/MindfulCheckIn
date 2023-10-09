@@ -30,6 +30,9 @@ const Footer = () => {
                <span>
                  Derechos de autor © 2023 E.P.E.T. N° 20.
                </span>
+               <span>
+                 Todos los derechos
+                </span>
             </div>
             </div>
         </div>
