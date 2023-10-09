@@ -13,6 +13,9 @@ const Footer = () => {
         [
             {label : 'Soporte' , key: 'header-2'},
             {label : 'Centro de ayuda' , key: 'item-2-1'},
+            {label : ' Política de Privacidad' , key: 'item-2-2'},
+            
+           
         ]
     ]
 }
