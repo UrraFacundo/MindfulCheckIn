@@ -45,7 +45,7 @@ const Footer = () => {
                 <ul className={`col col-${index+1}`} key={`col-${index}`}>
                      {col.map((link,index) => (
                         <li key={`link-${col}-${index}`}>
-                            
+                          {link.label}
                         </li>
                      ))}
                 </ul>
