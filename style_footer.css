@@ -15,4 +15,5 @@
 .footer{
     $bg-clr: #263238;
     $text-main-clr: #fff;
+    $text-secondary-clr: #cccccc;
 }
