@@ -20,5 +20,6 @@
     display: grid;
     row-gap: 2rem;
     background-color: $bg-clr;
+    padding: 1rem 1.5rem;
 
 }
