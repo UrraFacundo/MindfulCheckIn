@@ -22,6 +22,9 @@ const Footer = () => {
             <div className="footer-company-info">
             <div className="footer-img">
               <img src={icon} alt="" />
+              <span>
+                E.P.E.T. N° 20
+              </span>
             </div>
             </div>
         </div>
