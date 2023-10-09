@@ -35,7 +35,9 @@ const Footer = () => {
                 </span>
              </div>
              <div className="footer-icons">
-                
+               <FaInstagram/>
+               
+
              </div>
             </div>
         </div>
