@@ -20,20 +20,23 @@ const Footer = () => {
     return (
         <div className='footer'>
             <div className="footer-company-info">
-            <div className="footer-img">
+             <div className="footer-img">
               <img src={icon} alt="" />
               <span>
                 E.P.E.T. N° 20
               </span>
-            </div>
-            <div className='info'>
+             </div>
+             <div className='info'>
                <span>
                  Derechos de autor © 2023 E.P.E.T. N° 20.
                </span>
                <span>
                  Todos los derechos
                 </span>
-            </div>
+             </div>
+             <div className="footer-icons">
+                
+             </div>
             </div>
         </div>
     )
