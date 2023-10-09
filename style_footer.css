@@ -62,6 +62,10 @@
     &-links{
         display: grid;
         row-gap: 20px;
+
+        & ul{
+            display: grid;
+        }
     }
 
 }
