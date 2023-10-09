@@ -20,7 +20,9 @@ const Footer = () => {
     return (
         <div className='footer'>
             <div className="footer-company-info">
+            <div className="footer-img">
                 
+            </div>
             </div>
         </div>
     )
