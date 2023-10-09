@@ -72,7 +72,10 @@
                 font-size: 1.25rem;
                 color: $text-main-clr;
                 font-weight: 500;
-                
+            }
+
+            & li:not(:first-child){
+                color: $text-secondary-clr;
             }
         }
     }
